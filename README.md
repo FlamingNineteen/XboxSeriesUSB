@@ -1,6 +1,6 @@
 # XboxSeriesUSB Plugin
 
-This plugin interprets Xbox Series S or X controllers plugged into the USB ports at the front of the Wii U and assings them as if they were connected like native Wii U wireless controllers.
+This plugin interprets Xbox Series S or X controllers plugged into the USB ports at the front of the Wii U and assigns them as if they were connected like native Wii U wireless controllers.
 
 *Note: this is an early version and this plugin could act unstable or may not function at all.*
 
